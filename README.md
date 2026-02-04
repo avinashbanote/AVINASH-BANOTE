@@ -1,23 +1,133 @@
 # AVINASH-BANOTE
 <h1 align="center">Hi 👋, I'm Avinash Banote</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Frontend Developer | Cloud & DevOps Enthusiast | CSE Student from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avinash-banote&label=Profile%20views&color=0e75b6&style=flat" alt="avinash-banote" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinash-banote" alt="avinash-banote" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.codechef.com/users/noted_shard_97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="noted_shard_97" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/avinash banote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="avinash banote" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/441601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="441601" height="30" width="40" /></a>
+<p align="center">
+🚀 Passionate about building scalable web applications and modern user interfaces.<br>
+💼 Actively looking for internship & full-time opportunities in Tech.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=avinash-banote&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinash-banote&show_icons=true&locale=en&layout=compact" alt="avinash-banote" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinash-banote&show_icons=true&locale=en" alt="avinash-banote" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-banote&" alt="avinash-banote" /></p>
+- 🎓 Computer Science Engineering Student  
+- 💻 Frontend Developer with Cloud Knowledge  
+- 🌱 Currently learning **React, AWS, and DevOps Tools**  
+- 🔭 Interested in **Web Development, Cloud Computing & Automation , DATA analytics**  
+- 📫 Reach me at: avinashbanote14@gmail.com 
+- ⚡ Fun Fact: I love learning new tech every day  
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://www.codechef.com/users/noted_shard_97" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40"/>
+</a>
+
+<a href="https://www.hackerrank.com/avinash banote" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
+</a>
+
+<a href="https://www.topcoder.com/members/441601" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" height="30" width="40"/>
+</a>
+
+<a href="https://www.linkedin.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="40"/>
+</a>
+</p>
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 🚀 Programming Languages
+- C
+- Python
+- SQL
+- JavaScript (Basic)
+
+### 🌐 Web Development
+- HTML5
+- CSS3
+- Responsive Design
+- UI/UX Basics
+
+### ☁️ Cloud & Tools
+- AWS (EC2, S3 Basics)
+- Linux
+- Git & GitHub
+- MySQL
+
+### 📊 Data & Libraries
+- Pandas
+- OpenCV
+- Seaborn
+- MATLAB
+
+---
+
+## 💻 Languages & Tools
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
+
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="left">
+<img src="https://github-profile-trophy.vercel.app/?username=avinash-banote&theme=algolia&margin-w=15" />
+</p>
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=avinash-banote&show_icons=true&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-banote&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=avinash-banote&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🚀 Career Objective
+
+> To work in a challenging environment where I can enhance my technical skills, contribute to innovative projects, and grow as a software professional.
+
+---
+
+⭐ If you like my work, feel free to follow me and connect!
